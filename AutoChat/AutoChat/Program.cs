@@ -106,7 +106,7 @@ namespace AutoChat
         {
             Congrats = new List<string>
             {
-                "bom trabalho", "otimo", "boa", "boa", "jogo muito", "aí nao pai", "nice", "que isso?!", "tá louco, pai?", "nice one", "sweet", "awesome"
+                "bom trabalho", "otimo", "boa", "boa", "jogo muito", "aí nao pai", "nice", "que isso?!", "tá louco, pai?", "boa", "sweet", "awesome"
             };
 
             Smileys = new List<string>
