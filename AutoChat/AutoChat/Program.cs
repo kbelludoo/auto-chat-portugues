@@ -131,7 +131,7 @@ namespace AutoChat
 
             Sympathy = new List<string>
             {
-                "bl", "bl", "tough luck", "bad luck", "bummer"
+                "ok", "vai", "que sorte", "mais sorte na proxima", "vamos conseguir"
             };
 
             Clutch = new List<string>
